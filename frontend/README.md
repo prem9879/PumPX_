@@ -2,7 +2,7 @@
 
 > **Track:** Financial & Market Intelligence  
 > **Team:** BEDSHEET — Parul University  
-> **Members:** Bhumi Mishra · Prem Diwan · Ashwin Pandey  
+> **Members:** Bhumi Mishra · Prem Diwan  
 > **Event:** Consensus 2026
 
 ---
@@ -221,7 +221,6 @@ frontend/
 |------|------|
 | **Bhumi Mishra** | Smart Contract & Protocol Design |
 | **Prem Diwan** | Frontend & UX Architecture |
-| **Ashwin Pandey** | Full-Stack & Infrastructure |
 
 **University:** Parul University  
 **Built at:** Consensus Hackathon 2026
